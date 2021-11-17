@@ -1,0 +1,45 @@
+{
+    "BotSettings": {
+        "token": "OTA3OTc4ODYzOTQwODY2MDgw.YYvDNg.OcgoKfE2Kzy8HV-gB1-hSzpaBVs",
+        "owner": "799560347219656733",
+        "prefix": ".",
+        "botStatus": "botclub.net",
+        "botVoiceChannelID": "907980365271027722"
+    },
+    "Roles": {
+        "BoyRole1": "907980978834776095",
+        "BoyRole2": "907980978834776095",
+        "GirlRole1": "907981020597473300",
+        "GirlRole2": "907981020597473300",
+        "Unregister": "904358056136171580",
+        "Registerer": "907981683490422805",
+        "TagRole": "904354219459485736",
+        "Suspicious": "907981773785399326",
+        "Jail": "904359178796142654"
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "BLACKSANCAK",
+            "ServerID": "904350672177213462",
+            "Tag": "TAG",
+            "UnTag": "UNTAG"
+    },
+        "Channels": {
+            "RegisterChat": "907982219811901480",
+            "TagLog": "907982467812720660",
+            "Rules": "907982319208505364",
+            "GeneralChat": "907982554194399352"
+        },
+        "Welcome": {
+            "WelcomeChat": "HOŞGELDİN CHAT",
+            "WelcomeName": "• İsim | Yaş"
+        }
+}
